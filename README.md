@@ -1,10 +1,10 @@
 <h1 align="left">hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi, I'm Ayush. I'm a passionate Full Stack Developer and a cloud enthusiast from India.</h3>
 
-<a href="#"><img width="100%" height="auto" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" height="175px"/></a>
+<a href="#"><p align="center"><img width="80%" height="auto" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" height="175px"/></p></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GeekeyCoder&label=Profile%20views&color=0e75b6&style=flat" alt="GeekeyCoder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GeekeyCoder&label=Profile%20views&color=0e75b6&style=flat" alt="GeekeyCoder" /> </p>
 
 
 
@@ -41,12 +41,13 @@
 
 <p align="center">
     <a href="https://github.com/GeekeyCoder/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Goel streak" src="https://github-readme-streak-stats.herokuapp.com?user=GeekeyCoder&theme=rising-sun&hide_border=true&stroke=FFFFFF&background=060A0CD0)](https://git.io/streak-stats"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Goel streak" src="https://github-readme-streak-stats.herokuapp.com?user=GeekeyCoder&theme=rising-sun&border=true;&stroke=FFFFFF&background=060A0CD0)](https://git.io/streak-stats"/>
     </a>
 </p>
 
 
 
   <br/>
-    <a href="https://github.com/GeekeyCoder/github-readme-stats"><img alt="Ayush Goel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GeekeyCoder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="center">
+    <a href="https://github.com/GeekeyCoder/github-readme-stats"><img alt="Ayush Goel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GeekeyCoder&show_icons=true&count_private=true&theme=react&border=true&bg_color=0D1117" /></a></p>
   
