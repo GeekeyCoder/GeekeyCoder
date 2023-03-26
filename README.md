@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **geekycoder886@gmail.com**
 
-- ⚡ Fun fact **I play games and a GYM freak!.**
+- ⚡ Fun fact **I a GYM freak! and love to play games.**
 
 ## Connect with me:
 <p align="left">
