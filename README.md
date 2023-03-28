@@ -50,5 +50,4 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/GeekeyCoder/github-readme-stats"><img alt="Ayush Goel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GeekeyCoder&show_icons=true&count_private=true&theme=react&border=true&bg_color=0D1117" /></a></p>
-  
+ <img src="https://github-readme-stats.vercel.app/api?username=GeekeyCoder&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact&bg_color=0D1117" alt="GitHub Stats for GeekeyCoder" width="500"><p>
