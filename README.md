@@ -47,8 +47,6 @@
     </a>
 </p>
 
-
-
   <br/>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=GeekeyCoder&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact&bg_color=0D1117" alt="GitHub Stats for GeekeyCoder" width="500"><p>
