@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **building projects**
 
-- 🌱 I’m currently learning **Statistics with Python.**
+- 🌱 I’m currently learning **Statistics in Python.**
 
 - 👯 I’m looking to collaborate with **working professionals**
 
 - 📫 How to reach me **geekycoder886@gmail.com**
 
-- ⚡ Fun fact **I have a keen interest in the Automobile Industry.**
+- ⚡ Fun fact : **I have a keen interest in the Automobile Industry.**
 
 ## Connect with me:
 <p align="left">
