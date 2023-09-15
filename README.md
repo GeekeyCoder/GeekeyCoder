@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **building projects**
 
-- 🌱 I’m currently learning **Statistics with Python.**
+- 🌱 I’m currently mastering **SQL & Stats with Python.**
 
 - 👯 I’m looking to collaborate with **working professionals**
 
