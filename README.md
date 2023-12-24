@@ -38,7 +38,7 @@
 
 ## My Portfolio:
 
-<a href="https://portfolio.goelistic.repl.co/" target="_blank"><img alt="My portfolio, GeekyCoder"
+<a href="https://www.datascienceportfol.io/ayushgoel" target="_blank"><img alt="My portfolio, GeekyCoder"
 src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" target="_blank" width="130" /></a>
 
 
