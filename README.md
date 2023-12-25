@@ -1,5 +1,5 @@
 <h1 align="left">hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Hi, I'm Ayush. I'm a passionate Data Scientist | Python&ML enthusiast from India.</h3>
+<h3 align="center">Hi, I'm Ayush. I'm a passionate Data Scientist | Python&ML enthusiast</h3>
 
 <a href="#"><p align="center"><img width="80%" height="auto" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" height="175px"/></p></a>
 
