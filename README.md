@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate with **working professionals**
 
-- 📫 How to reach me **geekycoder886@gmail.com**
+- 📫 How to reach me **ayushh.goell@gmail.com**
 
 - ⚡ Fun fact : **I have a keen interest in the Automobile Industry.**
 
