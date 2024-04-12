@@ -25,7 +25,7 @@
 <a href = "https://www.linkedin.com/in/ayush-goel-63107a21b/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://leetcode.com/geekycoder886/" target="_blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="45" height="42"></a>
 <a href = "https://twitter.com/AyushGo81055662"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ayush_go3l/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/uncaffeinatd/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
   
 </p>
